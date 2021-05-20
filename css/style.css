@@ -1,0 +1,9 @@
+.container {
+    max-width: 1170px;
+}
+
+.container-fluid {
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow: hidden;
+}
